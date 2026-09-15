@@ -2,7 +2,7 @@
   "services": [
     {
       "name": "sportarr",
-      "image": "sportarr/sportarr:4.1.5.1115",
+      "image": "sportarr/sportarr:4.1.7.1117",
       "isMain": true,
       "internalPort": 1867,
       "environment": [

@@ -5,8 +5,8 @@
   "dynamic_config": true,
   "port": 1867,
   "id": "sportarr",
-  "tipi_version": 2,
-  "version": "4.1.5.1115",
+  "tipi_version": 3,
+  "version": "4.1.7.1117",
   "categories": [
     "media",
     "utilities"
@@ -21,6 +21,6 @@
     "amd64"
   ],
   "created_at": 1785813569169,
-  "updated_at": 1787060578000,
+  "updated_at": 1789434156746,
   "min_tipi_version": "4.5.0"
 }

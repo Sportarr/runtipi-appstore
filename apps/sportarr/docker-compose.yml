@@ -1,7 +1,7 @@
 version: '3.7'
 services:
   sportarr:
-    image: sportarr/sportarr:4.1.2.1112
+    image: sportarr/sportarr:4.1.7.1117
     container_name: sportarr
     environment:
       - PUID=1000
